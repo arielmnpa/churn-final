@@ -1,0 +1,17 @@
+# requirements.txt
+
+# Core
+pandas>=1.5.3
+numpy>=1.23.5
+scikit-learn>=1.2.2
+joblib>=1.2.0
+
+# UI
+streamlit>=1.30.0
+
+# Optional (jika ada visualisasi)
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Jika kamu pakai SHAP nanti
+shap>=0.43.0
